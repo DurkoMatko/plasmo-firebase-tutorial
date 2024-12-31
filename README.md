@@ -1,5 +1,7 @@
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
+I followed this [YT tutorial](https://www.youtube.com/watch?v=f6UjpL1rado&ab_channel=OmriBarmats)
+
 ## Getting Started
 
 First, run the development server:
